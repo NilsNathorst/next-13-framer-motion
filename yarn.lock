@@ -382,7 +382,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@react-spring/three@npm:^9.3.1":
+"@react-spring/three@npm:^9.3.1, @react-spring/three@npm:^9.6.1":
   version: 9.6.1
   resolution: "@react-spring/three@npm:9.6.1"
   dependencies:
@@ -2230,6 +2230,7 @@ __metadata:
   resolution: "next-app@workspace:."
   dependencies:
     "@next/font": 13.0.7
+    "@react-spring/three": ^9.6.1
     "@react-three/drei": ^9.46.7
     "@react-three/fiber": ^8.9.1
     "@types/node": 18.11.15
